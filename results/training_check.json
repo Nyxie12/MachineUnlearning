@@ -1,0 +1,13 @@
+{
+  "purpose": "One-epoch training and timing check",
+  "model": "Public CIFAR ResNet-18",
+  "seed": 42,
+  "device": "mps",
+  "epochs": 1,
+  "training_images": 45000,
+  "validation_images": 5000,
+  "training_loss": 2.034962673611111,
+  "validation_accuracy": 0.3924,
+  "training_seconds": 28.543324374999884,
+  "validation_seconds": 1.2212487499998588
+}

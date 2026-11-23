@@ -1,0 +1,45 @@
+{
+  "snapshot_date": "2026-11-22",
+  "artifacts": [
+    {
+      "snapshot": "baseline_evaluation.json",
+      "project_source": "results/baseline_seed42/baseline_evaluation.json",
+      "sha256": "c8f9f01006d0cea7ca4658c9218aed648298230ddc49e8297c97a14ad5a2c070"
+    },
+    {
+      "snapshot": "baseline_config.json",
+      "project_source": "results/baseline_seed42/config.json",
+      "sha256": "d3524c2071d364f859ef3c906462cff86dcc2406ca6d314bdc1d73f32f509a05"
+    },
+    {
+      "snapshot": "baseline_history.json",
+      "project_source": "results/baseline_seed42/history.json",
+      "sha256": "346279816b222197b65df020c6e5b163eb15f761e0d8453ef0a953d29889bfeb"
+    },
+    {
+      "snapshot": "retrain_evaluation.json",
+      "project_source": "results/retrain_seed42/retrain_evaluation.json",
+      "sha256": "2e7b9fd1ba2619e45d9650d2dad11b4e516a6bde47e4899b153bca9d937a32ff"
+    },
+    {
+      "snapshot": "retrain_config.json",
+      "project_source": "results/retrain_seed42/config.json",
+      "sha256": "9e71a25e29c28f9620ab79b0d4c8f9807975c609720a8fbb02da893f14d621a9"
+    },
+    {
+      "snapshot": "retrain_history.json",
+      "project_source": "results/retrain_seed42/history.json",
+      "sha256": "d53e1fd65e000a2463b499e839cc7a6339c708429fe730711cbc9be4cc4c99b7"
+    },
+    {
+      "snapshot": "dataset_counts.csv",
+      "project_source": "notes/dataset_counts.csv",
+      "sha256": "7052bf1579b52f9f28ff0dc8420417638f638f1e0cab53faa26db3611738effd"
+    },
+    {
+      "snapshot": "model_commit.txt",
+      "project_source": "notes/model_commit.txt",
+      "sha256": "8a745daa6beeb547dd134fbe1785c7a0b8055600101d2ef9a23c30150b9402c6"
+    }
+  ]
+}

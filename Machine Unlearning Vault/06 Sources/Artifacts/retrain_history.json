@@ -1,0 +1,1002 @@
+[
+  {
+    "epoch": 1,
+    "learning_rate": 0.1,
+    "training_loss": 2.01484304138322,
+    "validation_accuracy": 0.3956,
+    "validation_class_accuracy": {
+      "airplane": 0.536,
+      "automobile": 0.416,
+      "bird": 0.42,
+      "cat": 0.416,
+      "deer": 0.254,
+      "dog": 0.012,
+      "frog": 0.148,
+      "horse": 0.65,
+      "ship": 0.524,
+      "truck": 0.58
+    },
+    "training_seconds": 27.93163804200003,
+    "validation_seconds": 1.064109875000213
+  },
+  {
+    "epoch": 2,
+    "learning_rate": 0.09990133642141358,
+    "training_loss": 1.5112889739229025,
+    "validation_accuracy": 0.5106,
+    "validation_class_accuracy": {
+      "airplane": 0.746,
+      "automobile": 0.722,
+      "bird": 0.448,
+      "cat": 0.404,
+      "deer": 0.182,
+      "dog": 0.16,
+      "frog": 0.708,
+      "horse": 0.572,
+      "ship": 0.616,
+      "truck": 0.548
+    },
+    "training_seconds": 26.854065332999653,
+    "validation_seconds": 1.0228619169997728
+  },
+  {
+    "epoch": 3,
+    "learning_rate": 0.0996057350657239,
+    "training_loss": 1.2888411458333333,
+    "validation_accuracy": 0.5828,
+    "validation_class_accuracy": {
+      "airplane": 0.682,
+      "automobile": 0.732,
+      "bird": 0.372,
+      "cat": 0.308,
+      "deer": 0.446,
+      "dog": 0.346,
+      "frog": 0.832,
+      "horse": 0.74,
+      "ship": 0.624,
+      "truck": 0.746
+    },
+    "training_seconds": 27.15512333400011,
+    "validation_seconds": 1.0250377500001377
+  },
+  {
+    "epoch": 4,
+    "learning_rate": 0.09911436253643444,
+    "training_loss": 1.0935519416099773,
+    "validation_accuracy": 0.6202,
+    "validation_class_accuracy": {
+      "airplane": 0.632,
+      "automobile": 0.782,
+      "bird": 0.56,
+      "cat": 0.52,
+      "deer": 0.494,
+      "dog": 0.252,
+      "frog": 0.912,
+      "horse": 0.514,
+      "ship": 0.722,
+      "truck": 0.814
+    },
+    "training_seconds": 26.947049165999942,
+    "validation_seconds": 1.0122019999998884
+  },
+  {
+    "epoch": 5,
+    "learning_rate": 0.09842915805643154,
+    "training_loss": 0.9356392609126984,
+    "validation_accuracy": 0.6656,
+    "validation_class_accuracy": {
+      "airplane": 0.886,
+      "automobile": 0.906,
+      "bird": 0.652,
+      "cat": 0.34,
+      "deer": 0.718,
+      "dog": 0.61,
+      "frog": 0.452,
+      "horse": 0.656,
+      "ship": 0.686,
+      "truck": 0.75
+    },
+    "training_seconds": 26.860159416999977,
+    "validation_seconds": 1.0118249580000338
+  },
+  {
+    "epoch": 6,
+    "learning_rate": 0.09755282581475767,
+    "training_loss": 0.8140494791666667,
+    "validation_accuracy": 0.7216,
+    "validation_class_accuracy": {
+      "airplane": 0.814,
+      "automobile": 0.826,
+      "bird": 0.596,
+      "cat": 0.462,
+      "deer": 0.738,
+      "dog": 0.666,
+      "frog": 0.77,
+      "horse": 0.706,
+      "ship": 0.696,
+      "truck": 0.942
+    },
+    "training_seconds": 26.88386124999988,
+    "validation_seconds": 1.0105280000002494
+  },
+  {
+    "epoch": 7,
+    "learning_rate": 0.09648882429441256,
+    "training_loss": 0.7017450131094104,
+    "validation_accuracy": 0.7604,
+    "validation_class_accuracy": {
+      "airplane": 0.872,
+      "automobile": 0.832,
+      "bird": 0.73,
+      "cat": 0.558,
+      "deer": 0.776,
+      "dog": 0.438,
+      "frog": 0.752,
+      "horse": 0.848,
+      "ship": 0.848,
+      "truck": 0.95
+    },
+    "training_seconds": 26.897595625000122,
+    "validation_seconds": 1.0084558339999603
+  },
+  {
+    "epoch": 8,
+    "learning_rate": 0.09524135262330098,
+    "training_loss": 0.6189712213010204,
+    "validation_accuracy": 0.709,
+    "validation_class_accuracy": {
+      "airplane": 0.852,
+      "automobile": 0.924,
+      "bird": 0.748,
+      "cat": 0.334,
+      "deer": 0.448,
+      "dog": 0.886,
+      "frog": 0.816,
+      "horse": 0.808,
+      "ship": 0.642,
+      "truck": 0.632
+    },
+    "training_seconds": 26.840654458000245,
+    "validation_seconds": 1.0096892920000755
+  },
+  {
+    "epoch": 9,
+    "learning_rate": 0.09381533400219318,
+    "training_loss": 0.5746717775651927,
+    "validation_accuracy": 0.7854,
+    "validation_class_accuracy": {
+      "airplane": 0.772,
+      "automobile": 0.93,
+      "bird": 0.802,
+      "cat": 0.59,
+      "deer": 0.692,
+      "dog": 0.776,
+      "frog": 0.758,
+      "horse": 0.814,
+      "ship": 0.836,
+      "truck": 0.884
+    },
+    "training_seconds": 26.820873041999675,
+    "validation_seconds": 1.0121001249999608
+  },
+  {
+    "epoch": 10,
+    "learning_rate": 0.09221639627510075,
+    "training_loss": 0.5346334679705216,
+    "validation_accuracy": 0.7834,
+    "validation_class_accuracy": {
+      "airplane": 0.894,
+      "automobile": 0.744,
+      "bird": 0.72,
+      "cat": 0.516,
+      "deer": 0.798,
+      "dog": 0.766,
+      "frog": 0.872,
+      "horse": 0.762,
+      "ship": 0.794,
+      "truck": 0.968
+    },
+    "training_seconds": 26.853331499999967,
+    "validation_seconds": 1.012043000000176
+  },
+  {
+    "epoch": 11,
+    "learning_rate": 0.09045084971874737,
+    "training_loss": 0.508678872590703,
+    "validation_accuracy": 0.8042,
+    "validation_class_accuracy": {
+      "airplane": 0.906,
+      "automobile": 0.88,
+      "bird": 0.778,
+      "cat": 0.494,
+      "deer": 0.862,
+      "dog": 0.692,
+      "frog": 0.756,
+      "horse": 0.872,
+      "ship": 0.88,
+      "truck": 0.922
+    },
+    "training_seconds": 26.84321220899983,
+    "validation_seconds": 1.01139962499974
+  },
+  {
+    "epoch": 12,
+    "learning_rate": 0.08852566213878946,
+    "training_loss": 0.4871201371173469,
+    "validation_accuracy": 0.8086,
+    "validation_class_accuracy": {
+      "airplane": 0.678,
+      "automobile": 0.88,
+      "bird": 0.642,
+      "cat": 0.578,
+      "deer": 0.852,
+      "dog": 0.822,
+      "frog": 0.938,
+      "horse": 0.852,
+      "ship": 0.946,
+      "truck": 0.898
+    },
+    "training_seconds": 26.86688954200008,
+    "validation_seconds": 1.0166932500001167
+  },
+  {
+    "epoch": 13,
+    "learning_rate": 0.08644843137107057,
+    "training_loss": 0.46166161777210885,
+    "validation_accuracy": 0.801,
+    "validation_class_accuracy": {
+      "airplane": 0.814,
+      "automobile": 0.792,
+      "bird": 0.784,
+      "cat": 0.598,
+      "deer": 0.626,
+      "dog": 0.794,
+      "frog": 0.882,
+      "horse": 0.918,
+      "ship": 0.852,
+      "truck": 0.95
+    },
+    "training_seconds": 26.869030291999934,
+    "validation_seconds": 1.0122114589999
+  },
+  {
+    "epoch": 14,
+    "learning_rate": 0.08422735529643442,
+    "training_loss": 0.4417930218962585,
+    "validation_accuracy": 0.7994,
+    "validation_class_accuracy": {
+      "airplane": 0.736,
+      "automobile": 0.928,
+      "bird": 0.882,
+      "cat": 0.628,
+      "deer": 0.804,
+      "dog": 0.768,
+      "frog": 0.588,
+      "horse": 0.87,
+      "ship": 0.882,
+      "truck": 0.908
+    },
+    "training_seconds": 26.875613375000285,
+    "validation_seconds": 1.01409112500005
+  },
+  {
+    "epoch": 15,
+    "learning_rate": 0.08187119948743447,
+    "training_loss": 0.42909531781462584,
+    "validation_accuracy": 0.7698,
+    "validation_class_accuracy": {
+      "airplane": 0.76,
+      "automobile": 0.908,
+      "bird": 0.75,
+      "cat": 0.67,
+      "deer": 0.596,
+      "dog": 0.892,
+      "frog": 0.498,
+      "horse": 0.794,
+      "ship": 0.976,
+      "truck": 0.854
+    },
+    "training_seconds": 27.04534320899984,
+    "validation_seconds": 1.0257810409998456
+  },
+  {
+    "epoch": 16,
+    "learning_rate": 0.07938926261462366,
+    "training_loss": 0.4103229520975057,
+    "validation_accuracy": 0.8408,
+    "validation_class_accuracy": {
+      "airplane": 0.834,
+      "automobile": 0.97,
+      "bird": 0.872,
+      "cat": 0.556,
+      "deer": 0.804,
+      "dog": 0.864,
+      "frog": 0.882,
+      "horse": 0.846,
+      "ship": 0.932,
+      "truck": 0.848
+    },
+    "training_seconds": 27.202618207999876,
+    "validation_seconds": 1.0132862089999435
+  },
+  {
+    "epoch": 17,
+    "learning_rate": 0.07679133974894982,
+    "training_loss": 0.3926059382086168,
+    "validation_accuracy": 0.786,
+    "validation_class_accuracy": {
+      "airplane": 0.804,
+      "automobile": 0.782,
+      "bird": 0.672,
+      "cat": 0.316,
+      "deer": 0.77,
+      "dog": 0.914,
+      "frog": 0.782,
+      "horse": 0.92,
+      "ship": 0.922,
+      "truck": 0.978
+    },
+    "training_seconds": 27.16372712500015,
+    "validation_seconds": 1.0137409999997544
+  },
+  {
+    "epoch": 18,
+    "learning_rate": 0.07408768370508576,
+    "training_loss": 0.38190312322845804,
+    "validation_accuracy": 0.8434,
+    "validation_class_accuracy": {
+      "airplane": 0.818,
+      "automobile": 0.954,
+      "bird": 0.886,
+      "cat": 0.726,
+      "deer": 0.74,
+      "dog": 0.782,
+      "frog": 0.778,
+      "horse": 0.872,
+      "ship": 0.934,
+      "truck": 0.944
+    },
+    "training_seconds": 27.122469792000174,
+    "validation_seconds": 1.0142780420001145
+  },
+  {
+    "epoch": 19,
+    "learning_rate": 0.07128896457825362,
+    "training_loss": 0.3592563731221655,
+    "validation_accuracy": 0.8564,
+    "validation_class_accuracy": {
+      "airplane": 0.922,
+      "automobile": 0.924,
+      "bird": 0.78,
+      "cat": 0.826,
+      "deer": 0.934,
+      "dog": 0.636,
+      "frog": 0.814,
+      "horse": 0.854,
+      "ship": 0.92,
+      "truck": 0.954
+    },
+    "training_seconds": 37.71339529199986,
+    "validation_seconds": 1.5394032090002838
+  },
+  {
+    "epoch": 20,
+    "learning_rate": 0.06840622763423389,
+    "training_loss": 0.3470857027706916,
+    "validation_accuracy": 0.853,
+    "validation_class_accuracy": {
+      "airplane": 0.842,
+      "automobile": 0.938,
+      "bird": 0.876,
+      "cat": 0.648,
+      "deer": 0.938,
+      "dog": 0.706,
+      "frog": 0.926,
+      "horse": 0.85,
+      "ship": 0.96,
+      "truck": 0.846
+    },
+    "training_seconds": 46.116471374999946,
+    "validation_seconds": 1.4281125419997807
+  },
+  {
+    "epoch": 21,
+    "learning_rate": 0.06545084971874736,
+    "training_loss": 0.3284465348639456,
+    "validation_accuracy": 0.8394,
+    "validation_class_accuracy": {
+      "airplane": 0.876,
+      "automobile": 0.956,
+      "bird": 0.838,
+      "cat": 0.82,
+      "deer": 0.844,
+      "dog": 0.44,
+      "frog": 0.926,
+      "horse": 0.814,
+      "ship": 0.914,
+      "truck": 0.966
+    },
+    "training_seconds": 45.22304966599995,
+    "validation_seconds": 1.4461304999999811
+  },
+  {
+    "epoch": 22,
+    "learning_rate": 0.06243449435824272,
+    "training_loss": 0.32051726810515874,
+    "validation_accuracy": 0.8122,
+    "validation_class_accuracy": {
+      "airplane": 0.886,
+      "automobile": 0.984,
+      "bird": 0.684,
+      "cat": 0.468,
+      "deer": 0.722,
+      "dog": 0.92,
+      "frog": 0.876,
+      "horse": 0.958,
+      "ship": 0.766,
+      "truck": 0.858
+    },
+    "training_seconds": 45.65850429200009,
+    "validation_seconds": 1.539177875000405
+  },
+  {
+    "epoch": 23,
+    "learning_rate": 0.05936906572928623,
+    "training_loss": 0.30503842031604306,
+    "validation_accuracy": 0.834,
+    "validation_class_accuracy": {
+      "airplane": 0.916,
+      "automobile": 0.882,
+      "bird": 0.936,
+      "cat": 0.486,
+      "deer": 0.788,
+      "dog": 0.748,
+      "frog": 0.878,
+      "horse": 0.912,
+      "ship": 0.878,
+      "truck": 0.916
+    },
+    "training_seconds": 37.12350745799995,
+    "validation_seconds": 1.014041541000097
+  },
+  {
+    "epoch": 24,
+    "learning_rate": 0.056266661678215216,
+    "training_loss": 0.28993401006235825,
+    "validation_accuracy": 0.866,
+    "validation_class_accuracy": {
+      "airplane": 0.888,
+      "automobile": 0.914,
+      "bird": 0.718,
+      "cat": 0.702,
+      "deer": 0.958,
+      "dog": 0.838,
+      "frog": 0.824,
+      "horse": 0.918,
+      "ship": 0.93,
+      "truck": 0.97
+    },
+    "training_seconds": 46.3516808749996,
+    "validation_seconds": 1.3917194589998871
+  },
+  {
+    "epoch": 25,
+    "learning_rate": 0.053139525976465665,
+    "training_loss": 0.27654234871031746,
+    "validation_accuracy": 0.8392,
+    "validation_class_accuracy": {
+      "airplane": 0.862,
+      "automobile": 0.914,
+      "bird": 0.802,
+      "cat": 0.718,
+      "deer": 0.794,
+      "dog": 0.724,
+      "frog": 0.774,
+      "horse": 0.934,
+      "ship": 0.886,
+      "truck": 0.984
+    },
+    "training_seconds": 28.782448375000058,
+    "validation_seconds": 1.0199999999999818
+  },
+  {
+    "epoch": 26,
+    "learning_rate": 0.049999999999999996,
+    "training_loss": 0.26264681653911565,
+    "validation_accuracy": 0.8564,
+    "validation_class_accuracy": {
+      "airplane": 0.808,
+      "automobile": 0.926,
+      "bird": 0.744,
+      "cat": 0.764,
+      "deer": 0.804,
+      "dog": 0.838,
+      "frog": 0.904,
+      "horse": 0.856,
+      "ship": 0.958,
+      "truck": 0.962
+    },
+    "training_seconds": 42.65293491600005,
+    "validation_seconds": 1.0112129159997494
+  },
+  {
+    "epoch": 27,
+    "learning_rate": 0.046860474023534326,
+    "training_loss": 0.24472295298327665,
+    "validation_accuracy": 0.8658,
+    "validation_class_accuracy": {
+      "airplane": 0.836,
+      "automobile": 0.976,
+      "bird": 0.91,
+      "cat": 0.69,
+      "deer": 0.85,
+      "dog": 0.836,
+      "frog": 0.824,
+      "horse": 0.862,
+      "ship": 0.924,
+      "truck": 0.95
+    },
+    "training_seconds": 36.49047854100036,
+    "validation_seconds": 1.4253232500000195
+  },
+  {
+    "epoch": 28,
+    "learning_rate": 0.04373333832178478,
+    "training_loss": 0.23410036670918366,
+    "validation_accuracy": 0.876,
+    "validation_class_accuracy": {
+      "airplane": 0.832,
+      "automobile": 0.94,
+      "bird": 0.902,
+      "cat": 0.892,
+      "deer": 0.9,
+      "dog": 0.712,
+      "frog": 0.916,
+      "horse": 0.866,
+      "ship": 0.92,
+      "truck": 0.88
+    },
+    "training_seconds": 37.15213295900003,
+    "validation_seconds": 1.0143135410003197
+  },
+  {
+    "epoch": 29,
+    "learning_rate": 0.040630934270713764,
+    "training_loss": 0.21741275155895692,
+    "validation_accuracy": 0.8748,
+    "validation_class_accuracy": {
+      "airplane": 0.876,
+      "automobile": 0.854,
+      "bird": 0.81,
+      "cat": 0.91,
+      "deer": 0.816,
+      "dog": 0.732,
+      "frog": 0.892,
+      "horse": 0.916,
+      "ship": 0.976,
+      "truck": 0.966
+    },
+    "training_seconds": 39.30086933299981,
+    "validation_seconds": 1.4274611669998194
+  },
+  {
+    "epoch": 30,
+    "learning_rate": 0.03756550564175726,
+    "training_loss": 0.20399287840136054,
+    "validation_accuracy": 0.8758,
+    "validation_class_accuracy": {
+      "airplane": 0.864,
+      "automobile": 0.96,
+      "bird": 0.83,
+      "cat": 0.726,
+      "deer": 0.914,
+      "dog": 0.92,
+      "frog": 0.824,
+      "horse": 0.892,
+      "ship": 0.886,
+      "truck": 0.942
+    },
+    "training_seconds": 34.13688337500025,
+    "validation_seconds": 1.0115030420001858
+  },
+  {
+    "epoch": 31,
+    "learning_rate": 0.03454915028125265,
+    "training_loss": 0.1851955893034297,
+    "validation_accuracy": 0.8796,
+    "validation_class_accuracy": {
+      "airplane": 0.934,
+      "automobile": 0.894,
+      "bird": 0.816,
+      "cat": 0.77,
+      "deer": 0.912,
+      "dog": 0.726,
+      "frog": 0.916,
+      "horse": 0.93,
+      "ship": 0.928,
+      "truck": 0.97
+    },
+    "training_seconds": 44.96147012500023,
+    "validation_seconds": 1.4445517919994018
+  },
+  {
+    "epoch": 32,
+    "learning_rate": 0.03159377236576612,
+    "training_loss": 0.17304437269699546,
+    "validation_accuracy": 0.8636,
+    "validation_class_accuracy": {
+      "airplane": 0.868,
+      "automobile": 0.934,
+      "bird": 0.942,
+      "cat": 0.838,
+      "deer": 0.896,
+      "dog": 0.766,
+      "frog": 0.79,
+      "horse": 0.878,
+      "ship": 0.772,
+      "truck": 0.952
+    },
+    "training_seconds": 31.968143708000753,
+    "validation_seconds": 2.6308996249999836
+  },
+  {
+    "epoch": 33,
+    "learning_rate": 0.028711035421746366,
+    "training_loss": 0.1546312646152211,
+    "validation_accuracy": 0.9112,
+    "validation_class_accuracy": {
+      "airplane": 0.914,
+      "automobile": 0.926,
+      "bird": 0.868,
+      "cat": 0.854,
+      "deer": 0.94,
+      "dog": 0.826,
+      "frog": 0.904,
+      "horse": 0.936,
+      "ship": 0.964,
+      "truck": 0.98
+    },
+    "training_seconds": 46.19365070799995,
+    "validation_seconds": 1.4551663330003066
+  },
+  {
+    "epoch": 34,
+    "learning_rate": 0.025912316294914226,
+    "training_loss": 0.13913145727040815,
+    "validation_accuracy": 0.9034,
+    "validation_class_accuracy": {
+      "airplane": 0.908,
+      "automobile": 0.946,
+      "bird": 0.878,
+      "cat": 0.898,
+      "deer": 0.914,
+      "dog": 0.77,
+      "frog": 0.914,
+      "horse": 0.886,
+      "ship": 0.96,
+      "truck": 0.96
+    },
+    "training_seconds": 35.47352645800038,
+    "validation_seconds": 1.5415146249997633
+  },
+  {
+    "epoch": 35,
+    "learning_rate": 0.023208660251050155,
+    "training_loss": 0.11897985756802722,
+    "validation_accuracy": 0.9082,
+    "validation_class_accuracy": {
+      "airplane": 0.922,
+      "automobile": 0.926,
+      "bird": 0.924,
+      "cat": 0.826,
+      "deer": 0.906,
+      "dog": 0.878,
+      "frog": 0.916,
+      "horse": 0.908,
+      "ship": 0.916,
+      "truck": 0.96
+    },
+    "training_seconds": 48.038121124999634,
+    "validation_seconds": 1.4387816669996027
+  },
+  {
+    "epoch": 36,
+    "learning_rate": 0.020610737385376346,
+    "training_loss": 0.10813361412273242,
+    "validation_accuracy": 0.9094,
+    "validation_class_accuracy": {
+      "airplane": 0.888,
+      "automobile": 0.972,
+      "bird": 0.906,
+      "cat": 0.896,
+      "deer": 0.944,
+      "dog": 0.76,
+      "frog": 0.89,
+      "horse": 0.908,
+      "ship": 0.964,
+      "truck": 0.966
+    },
+    "training_seconds": 37.68848041599995,
+    "validation_seconds": 1.0877589159999843
+  },
+  {
+    "epoch": 37,
+    "learning_rate": 0.01812880051256551,
+    "training_loss": 0.09283631616709184,
+    "validation_accuracy": 0.921,
+    "validation_class_accuracy": {
+      "airplane": 0.942,
+      "automobile": 0.954,
+      "bird": 0.85,
+      "cat": 0.866,
+      "deer": 0.94,
+      "dog": 0.854,
+      "frog": 0.932,
+      "horse": 0.942,
+      "ship": 0.972,
+      "truck": 0.958
+    },
+    "training_seconds": 105.27506170800007,
+    "validation_seconds": 11.412579834000098
+  },
+  {
+    "epoch": 38,
+    "learning_rate": 0.015772644703565562,
+    "training_loss": 0.07531462031427154,
+    "validation_accuracy": 0.9188,
+    "validation_class_accuracy": {
+      "airplane": 0.902,
+      "automobile": 0.958,
+      "bird": 0.946,
+      "cat": 0.86,
+      "deer": 0.938,
+      "dog": 0.79,
+      "frog": 0.952,
+      "horse": 0.918,
+      "ship": 0.956,
+      "truck": 0.968
+    },
+    "training_seconds": 111.39594362499975,
+    "validation_seconds": 1.5679684999995516
+  },
+  {
+    "epoch": 39,
+    "learning_rate": 0.013551568628929433,
+    "training_loss": 0.05967778419961735,
+    "validation_accuracy": 0.922,
+    "validation_class_accuracy": {
+      "airplane": 0.946,
+      "automobile": 0.942,
+      "bird": 0.912,
+      "cat": 0.82,
+      "deer": 0.932,
+      "dog": 0.844,
+      "frog": 0.94,
+      "horse": 0.944,
+      "ship": 0.968,
+      "truck": 0.972
+    },
+    "training_seconds": 47.77174387500054,
+    "validation_seconds": 1.5824830840001596
+  },
+  {
+    "epoch": 40,
+    "learning_rate": 0.011474337861210542,
+    "training_loss": 0.04951539469954649,
+    "validation_accuracy": 0.9256,
+    "validation_class_accuracy": {
+      "airplane": 0.938,
+      "automobile": 0.96,
+      "bird": 0.944,
+      "cat": 0.824,
+      "deer": 0.936,
+      "dog": 0.846,
+      "frog": 0.928,
+      "horse": 0.932,
+      "ship": 0.978,
+      "truck": 0.97
+    },
+    "training_seconds": 47.76570045800054,
+    "validation_seconds": 1.5800031249991662
+  },
+  {
+    "epoch": 41,
+    "learning_rate": 0.009549150281252632,
+    "training_loss": 0.034606009070294784,
+    "validation_accuracy": 0.9336,
+    "validation_class_accuracy": {
+      "airplane": 0.94,
+      "automobile": 0.944,
+      "bird": 0.926,
+      "cat": 0.84,
+      "deer": 0.94,
+      "dog": 0.904,
+      "frog": 0.954,
+      "horse": 0.944,
+      "ship": 0.962,
+      "truck": 0.982
+    },
+    "training_seconds": 48.064511791999394,
+    "validation_seconds": 1.6588616669996554
+  },
+  {
+    "epoch": 42,
+    "learning_rate": 0.007783603724899257,
+    "training_loss": 0.027011807327097504,
+    "validation_accuracy": 0.936,
+    "validation_class_accuracy": {
+      "airplane": 0.95,
+      "automobile": 0.976,
+      "bird": 0.916,
+      "cat": 0.888,
+      "deer": 0.936,
+      "dog": 0.864,
+      "frog": 0.95,
+      "horse": 0.958,
+      "ship": 0.962,
+      "truck": 0.96
+    },
+    "training_seconds": 48.40053575000002,
+    "validation_seconds": 1.605935208000119
+  },
+  {
+    "epoch": 43,
+    "learning_rate": 0.0061846659978068205,
+    "training_loss": 0.021633476551427864,
+    "validation_accuracy": 0.9386,
+    "validation_class_accuracy": {
+      "airplane": 0.928,
+      "automobile": 0.972,
+      "bird": 0.934,
+      "cat": 0.912,
+      "deer": 0.942,
+      "dog": 0.842,
+      "frog": 0.944,
+      "horse": 0.96,
+      "ship": 0.976,
+      "truck": 0.976
+    },
+    "training_seconds": 49.03716854200047,
+    "validation_seconds": 1.624312292000468
+  },
+  {
+    "epoch": 44,
+    "learning_rate": 0.004758647376699033,
+    "training_loss": 0.015730255888162556,
+    "validation_accuracy": 0.9426,
+    "validation_class_accuracy": {
+      "airplane": 0.96,
+      "automobile": 0.978,
+      "bird": 0.93,
+      "cat": 0.906,
+      "deer": 0.942,
+      "dog": 0.862,
+      "frog": 0.95,
+      "horse": 0.954,
+      "ship": 0.972,
+      "truck": 0.972
+    },
+    "training_seconds": 50.086580875000436,
+    "validation_seconds": 1.7334300830007123
+  },
+  {
+    "epoch": 45,
+    "learning_rate": 0.0035111757055874327,
+    "training_loss": 0.012146138647516298,
+    "validation_accuracy": 0.9408,
+    "validation_class_accuracy": {
+      "airplane": 0.946,
+      "automobile": 0.97,
+      "bird": 0.932,
+      "cat": 0.882,
+      "deer": 0.928,
+      "dog": 0.9,
+      "frog": 0.95,
+      "horse": 0.952,
+      "ship": 0.978,
+      "truck": 0.97
+    },
+    "training_seconds": 51.405028290999326,
+    "validation_seconds": 1.6387090000007447
+  },
+  {
+    "epoch": 46,
+    "learning_rate": 0.0024471741852423235,
+    "training_loss": 0.010953771889615221,
+    "validation_accuracy": 0.9424,
+    "validation_class_accuracy": {
+      "airplane": 0.96,
+      "automobile": 0.974,
+      "bird": 0.946,
+      "cat": 0.898,
+      "deer": 0.936,
+      "dog": 0.876,
+      "frog": 0.942,
+      "horse": 0.952,
+      "ship": 0.974,
+      "truck": 0.966
+    },
+    "training_seconds": 50.93773808300011,
+    "validation_seconds": 1.644014958000298
+  },
+  {
+    "epoch": 47,
+    "learning_rate": 0.0015708419435684518,
+    "training_loss": 0.009416389724835246,
+    "validation_accuracy": 0.9418,
+    "validation_class_accuracy": {
+      "airplane": 0.956,
+      "automobile": 0.966,
+      "bird": 0.936,
+      "cat": 0.894,
+      "deer": 0.942,
+      "dog": 0.878,
+      "frog": 0.952,
+      "horse": 0.952,
+      "ship": 0.972,
+      "truck": 0.97
+    },
+    "training_seconds": 50.863313040999856,
+    "validation_seconds": 1.772683958000016
+  },
+  {
+    "epoch": 48,
+    "learning_rate": 0.000885637463565564,
+    "training_loss": 0.008635709247891865,
+    "validation_accuracy": 0.9418,
+    "validation_class_accuracy": {
+      "airplane": 0.958,
+      "automobile": 0.966,
+      "bird": 0.94,
+      "cat": 0.898,
+      "deer": 0.936,
+      "dog": 0.876,
+      "frog": 0.946,
+      "horse": 0.952,
+      "ship": 0.976,
+      "truck": 0.97
+    },
+    "training_seconds": 50.94113720899986,
+    "validation_seconds": 1.6287758329999633
+  },
+  {
+    "epoch": 49,
+    "learning_rate": 0.00039426493427611173,
+    "training_loss": 0.00845181904141865,
+    "validation_accuracy": 0.9416,
+    "validation_class_accuracy": {
+      "airplane": 0.954,
+      "automobile": 0.962,
+      "bird": 0.948,
+      "cat": 0.892,
+      "deer": 0.936,
+      "dog": 0.874,
+      "frog": 0.94,
+      "horse": 0.954,
+      "ship": 0.976,
+      "truck": 0.98
+    },
+    "training_seconds": 50.98858570899938,
+    "validation_seconds": 1.7666602500003137
+  },
+  {
+    "epoch": 50,
+    "learning_rate": 9.866357858642205e-05,
+    "training_loss": 0.00829147027463329,
+    "validation_accuracy": 0.9408,
+    "validation_class_accuracy": {
+      "airplane": 0.954,
+      "automobile": 0.964,
+      "bird": 0.938,
+      "cat": 0.886,
+      "deer": 0.926,
+      "dog": 0.884,
+      "frog": 0.946,
+      "horse": 0.958,
+      "ship": 0.974,
+      "truck": 0.978
+    },
+    "training_seconds": 51.06946424999933,
+    "validation_seconds": 1.6327630420000787
+  }
+]

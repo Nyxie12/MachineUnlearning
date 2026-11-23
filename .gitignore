@@ -1,0 +1,36 @@
+# Local Python environment and generated caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+
+# Downloaded dataset stays local; keep reproducible split indices
+/data/*
+!/data/splits/
+/data/splits/*
+!/data/splits/*.json
+
+# Large model artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.tar
+*.tar.gz
+*.zip
+
+# Machine-specific Obsidian layout and plugin binaries
+**/.obsidian/workspace*.json
+**/.obsidian/cache/
+**/.obsidian/plugins/
+**/.trash/
+
+# Archived incomplete timing/debug runs
+/results/*_incomplete_*/
+/results/*_interrupted_*/

@@ -1,0 +1,19 @@
+{
+  "model": "Public CIFAR ResNet-18",
+  "model_commit": "49b7aa97b0c12fe0d4054e670403a16b6b834ddd",
+  "model_source_sha256": "7bcbe6bba6544645a5da6037bf3e5ddf90e97d0b3ef4183be90e17a0443b4510",
+  "split_sha256": "f1ed4ddb7edb0e3f300669bd1b1cb0a5259cdc13f326ac14981b3e7e122f24cc",
+  "seed": 42,
+  "epochs": 50,
+  "device": "mps",
+  "pytorch_version": "2.15.0",
+  "training_images": 44100,
+  "validation_images": 5000,
+  "optimizer": "SGD",
+  "initial_learning_rate": 0.1,
+  "momentum": 0.9,
+  "weight_decay": 0.0005,
+  "training_batch_size": 128,
+  "scheduler": "CosineAnnealingLR",
+  "checkpoint_selection": "Highest overall validation accuracy"
+}

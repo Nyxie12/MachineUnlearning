@@ -1,0 +1,6 @@
+[submodule "third_party/pytorch-cifar"]
+	path = third_party/pytorch-cifar
+	url = https://github.com/kuangliu/pytorch-cifar.git
+[submodule "third_party/selective-synaptic-dampening"]
+	path = third_party/selective-synaptic-dampening
+	url = https://github.com/if-loops/selective-synaptic-dampening.git
